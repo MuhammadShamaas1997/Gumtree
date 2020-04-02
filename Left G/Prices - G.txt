@@ -43,51 +43,6 @@ $299 Negotiable
 	11am to 5pm
 }Laptop
 
-Toshiba Core I5 2nd gen @2.50ghz 8gb ram 128gb ssd hdd win 10
-$199 Negotiable
-{
-	Toshiba Core I5 2nd gen @2.50ghz 8gb ram 128gb ssd hdd win 10
-
-
-	Toshiba Core I5 2nd gen @2.50ghz 8gb ram
-
-
-	8gb ram
-
-
-	win 10
-
-
-	128gb ssd Hard Drive
-
-
-	OFFICE 2007 INSTALLED
-
-
-	In Excellent Physical and Working Condition!
-
-
-	Please contact /sms
-
-
-	0405
-
-
-	621
-
-
-	003
-
-
-	163 waterlooroad greenacre 2190
-
-
-	Mon to Sat
-
-
-	11am to 5pm
-}Laptop
-
 Surface pro 128gb hdd 4gb ram core I5-4th gen @1.90ghz win 10
 $499 Negotiable
 {
@@ -220,51 +175,6 @@ $187 $185 $172
 
 
 	11am to 5pm 
-}Laptop
-
-MSI Gaming laptop Core I7-7th gen 16gb ram 120gb ssd and 1TB Hdd
-$999 Negotiable $899
-{
-	MSI Gaming laptop Core I7-7th gen 16gb ram 120gb ssd and 1TB Hdd
-
-
-	MSi MS-16J9 Gaming Laptop w/ Intel Core i7-7700HQ
-
-
-	16gb ram
-
-
-	win 10
-
-
-	128gb ssd Hard Drive and 1TB 2ndry hdd
-
-
-	OFFICE 2010 INSTALLED
-
-
-	In Excellent Physical and Working Condition!
-
-
-	Please contact /sms
-
-
-	0405
-
-
-	621
-
-
-	003
-
-
-	163 waterlooroad greenacre 2190
-
-
-	Mon to Sat
-
-
-	11am to 5pm
 }Laptop
 
 MacBookPro Core i5 2.7GHZ 8GB Intel Iris Pro 1536MB 250 GB SSD office
@@ -485,7 +395,7 @@ $580 Negotiable $499
 
 	163 waterlooroad greenacre 2190
 }Desktop
-
+*
 Lenovo Think pad Ultra book Detachable Core i5 4GB RAM 150 GB SSD Deal
 $599 Negotiable $550 $450
 {
@@ -949,7 +859,7 @@ $349.99 Negotiable $280 $249 $299
 
 	11am to 5pm 
 }Desktop
-
+*
 IMac 27inch Mid 2010 Core I3 8gb ram 500gb hdd Lion Installed
 $449 Negotiable
 {
@@ -1068,7 +978,7 @@ $850 $799 $699
 
 	Hardware UUID: 42392C41-A49A-5D70-A02A-D9C1D6926136
 }Desktop
-**
+
 iMac 27 2010 Core I5 @2.8ghz 8gb ram 1 Tb Hdd office 2011 good
 $599 Negotiable $550
 {
@@ -1294,7 +1204,7 @@ $300 Negotiable $280
 
 	11am to 5pm 
 }Desktop
-
+*
 HP Elitebk 8570w Core I7 3rd gen @2.70ghz 24gb ram 240gbssd and 1Tb hd
 $699 Negotiable
 {
@@ -1661,7 +1571,7 @@ $800 Negotiable
 
 	11am to 5pm
 }Desktop
-
+*
 HP all in1 Core I5- 6th gen @3.4ghz 8gb ram 500gb ssd hdd win10
 $450 Negotiable
 {
@@ -1995,7 +1905,7 @@ $399 Negotiable
 
 	003
 }Desktop
-
+*
 Gaming Desktop Intel Quad core i7-3770 16GB DDR3 120GB SSD 1TB HDD
 $499 Negotiable
 {
@@ -2317,7 +2227,7 @@ $350 Negotiable
 
 	11am to 5pm
 }Laptop
-
+*
 DEll E6540 Core i7-4th gen @3ghz 16gb ram 500gb hdd win 10 ofc
 $499 Negotiable
 {
@@ -2591,7 +2501,7 @@ $499 Negotiable
 	11am to 5pm
 }Laptop
 
-Asus GL552V Core I7-6th gen @2.60ghz 16gb ram 240gb ssd hdd w10
+Asus GL552V Core I7-6th gen @2.60ghz 8gb ram 240gb ssd hdd w10
 $999 Negotiable $699
 {
 	Asus GL552V Core I7-6th gen @2.60ghz 16gb ram 240gb ssd hdd w10
