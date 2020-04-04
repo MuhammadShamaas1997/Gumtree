@@ -320,51 +320,6 @@ $25 Negotiable
 	Clovelly, NSW 2031
 }
 
-Lenovo L560 15.6" 225GB SSD i5 6200 2.30GHZ 8GB RAM
-$360.05 Negotiable $360 $350
-{
-	Lenovo L560
-
-
-	15.6" Display
-
-
-	225GB SSD
-
-
-	i5 6200 2.30GHZ
-
-
-	8GB RAM
-
-
-	Windows 10
-
-
-	Office 2007 Installed
-
-
-	Please contact /sms
-
-
-	0405
-
-
-	621
-
-
-	003
-
-
-	Address is:
-
-
-	307 Clovelly Rd.
-
-
-	Clovelly, NSW 2031
-}Laptop
-
 Lenovo Thinkcentre M93p 2GHZ Win10 8GB RAM 250GB HDD
 $280 Negotiable $250 $280 $250
 {
@@ -521,46 +476,6 @@ $160
 	Nvidia Geforce 9400M
 
 	320GB HDD
-
-	Windows 10 Home
-
-
-	Pick up in clovelly
-
-	Please contact /sms: for more information
-
-	0452
-
-	33 5607
-
-	Please contact /sms
-
-	0405
-
-	621
-
-	003
-
-
-	Address is:
-
-	307 Clovelly Rd.
-
-	Clovelly, NSW 2031
-}Laptop
-
-Macbook Pro 2010 15" i7 2GHZ 8GB RAM 180GB SSD
-$199 Negotiable $399
-{
-	Macbook Pro 2010
-
-	15 inch touch diplay
-
-	Intel Core i7 2GHZ
-
-	8GB RAM
-
-	180GB SSD
 
 	Windows 10 Home
 
