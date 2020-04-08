@@ -264,6 +264,132 @@ $1,249 $1199 $1270 $1360 $1260 $1099 $1097
 	11am to 5pm 
 }Laptop
 
+Macbook Pro Retina 15" late 2013 core-i7 @2.3ghz 16gb ram 500gb ssd
+$1,100 Negotiable
+{
+	Macbook Pro Retina 15" late 2013
+
+
+	Intel core-i7 @2.3ghz
+
+
+	16gb ram
+
+
+	500gb ssd
+
+
+	Mac OS Mojave
+
+
+	office 2011 genuin Installed .
+
+
+	Please contact /sms
+
+
+	0405
+
+
+	621
+
+
+	003
+
+
+	163 waterlooroad greenacre 2190
+
+
+	Mon to Sat
+
+
+	11am to 5pm
+}Laptop
+
+Macbook pro retina 13" late 2013 core i5 @2.4Ghz 8gb ram 250gb ssd
+$800 Negotiable
+{
+	Macbook pro retina 13" late 2013
+
+
+	Intel core i5 @2.4Ghz
+
+
+	8gb ram
+
+
+	250gb ssd
+
+
+	Mac OS Mojave
+
+
+	office 2011 genuin Installed .
+
+
+	Please contact /sms
+
+
+	0405
+
+
+	621
+
+
+	003
+
+
+	163 waterlooroad greenacre 2190
+
+
+	Mon to Sat
+
+
+	11am to 5pm
+}Laptop
+
+Macbook Pro 17" mid 2010 core-i5 @2.53ghz 8gb ram 250gb ssd
+$649 Negotiable
+{
+	Macbook Pro 17 mid 2010
+
+
+	Intel core-i5 @2.53ghz
+
+
+	8gb ram
+
+
+	250gb ssd
+
+
+	Mac OS High Sierra
+
+
+	office 2011 genuin Installed .
+
+
+	Please contact /sms
+
+
+	0405
+
+
+	621
+
+
+	003
+
+
+	163 waterlooroad greenacre 2190
+
+
+	Mon to Sat
+
+
+	11am to 5pm
+}Laptop
+
 MacBook Air 2014 i5 13.3'' with 256 SSD and 4GB Ram
 $580
 {
@@ -419,7 +545,7 @@ $580 Negotiable $499
 
 	163 waterlooroad greenacre 2190
 }Desktop
-*
+
 Lenovo Think pad Ultra book Detachable Core i5 4GB RAM 150 GB SSD Deal
 $599 Negotiable $550 $450
 {
@@ -697,6 +823,54 @@ $350 Negotiable $330 $299
 	11am to 5pm 
 }Desktop
 
+Lenovo core i5-7th gen @2.10Ghz 8gb ram 240gb ssd win 10
+$600 Negotiable
+{
+	Lenovo Core I5-7th gen @2..10ghz 8gb ram 240gb ssd hdd win 10
+
+
+	Lenovo Ideapad 320
+
+
+	Intel core I5-7th gen @2.10ghz
+
+
+	8gb ram
+
+
+	win 10
+
+
+	240gb ssd Hard Drive
+
+
+	OFFICE 2007 INSTALLED
+
+
+	In Excellent Physical and Working Condition!
+
+
+	Please contact /sms
+
+
+	0405
+
+
+	621
+
+
+	003
+
+
+	163 waterlooroad greenacre 2190
+
+
+	Mon to Sat
+
+
+	11am to 5pm	
+}Laptop
+
 Lenovo Core i5-3rd gen @3.20ghz 4gb ram 180ssd and 500gb hdd win 10
 $299 Negotiable $269
 {
@@ -840,7 +1014,7 @@ $550 Negotiable $530 $499
 
 	11am to 5pm 
 }Desktop
-
+**
 iMac Core2 Duo 2.66 GHZ 4GB Ram GeForce 9400 250 MB 640 HDD 24 inch
 $349.99 Negotiable $280 $249 $299
 {
@@ -883,7 +1057,7 @@ $349.99 Negotiable $280 $249 $299
 
 	11am to 5pm 
 }Desktop
-*
+
 IMac 27inch Mid 2010 Core I3 8gb ram 500gb hdd Lion Installed
 $449 Negotiable
 {
@@ -1228,7 +1402,7 @@ $300 Negotiable $280
 
 	11am to 5pm 
 }Desktop
-*
+
 HP Elitebk 8570w Core I7 3rd gen @2.70ghz 24gb ram 240gbssd and 1Tb hd
 $699 Negotiable
 {
@@ -1461,7 +1635,7 @@ $199 Negotiable $189
 
 	11am to 5pm 
 }Desktop
-
+**
 Hp Core I5 @2.30ghz 6th gen 8gb ram 500gb hdd win 10 office
 $349 Negotiable $329
 {
@@ -1595,7 +1769,7 @@ $800 Negotiable
 
 	11am to 5pm
 }Desktop
-*
+
 HP all in1 Core I5- 6th gen @3.4ghz 8gb ram 500gb ssd hdd win10
 $450 Negotiable
 {
@@ -1929,7 +2103,7 @@ $399 Negotiable
 
 	003
 }Desktop
-*
+
 Gaming Desktop Intel Quad core i7-3770 16GB DDR3 120GB SSD 1TB HDD
 $499 Negotiable
 {
@@ -2027,7 +2201,7 @@ $140 Negotiable $120
 
 	11am to 5pm 
 }Desktop
-
+**
 Dell Latitude5480 i5- 7th gen @ 2.50ghz 8gb ram 120gb ssd hdd win 10
 $499 Negotiable $549 $548
 {
@@ -2251,7 +2425,7 @@ $350 Negotiable
 
 	11am to 5pm
 }Laptop
-*
+
 DEll E6540 Core i7-4th gen @3ghz 16gb ram 500gb hdd win 10 ofc
 $499 Negotiable
 {
@@ -2313,6 +2487,51 @@ $399 Negotiable
 
 
 	500gb Hard Drive
+
+
+	OFFICE 2007 INSTALLED
+
+
+	In Excellent Physical and Working Condition!
+
+
+	Please contact /sms
+
+
+	0405
+
+
+	621
+
+
+	003
+
+
+	163 waterlooroad greenacre 2190
+
+
+	Mon to Sat
+
+
+	11am to 5pm
+}Laptop
+
+Dell core i5-6th gen @2.30ghz 8gb ram 240gb ssd win 10
+$550 Negotiable
+{
+	Dell
+
+
+	Intel Core I5-6th gen @2.30ghz
+
+
+	8gb ram
+
+
+	win 10
+
+
+	240gb ssd Hard Drive
 
 
 	OFFICE 2007 INSTALLED
