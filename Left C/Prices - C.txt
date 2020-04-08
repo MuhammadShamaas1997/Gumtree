@@ -109,7 +109,7 @@ $600 Negotiable $640 $599
 }Desktop
 
 Gaming Desktop i5 3.40GHZ Dual GTX 670 SLI 240GB SSD 4TB HDD 32GB RAM
-$1,100 Negotiable $890
+$1,100 Negotiable $890 $780
 {
 	Gaming Desktop Computer
 
@@ -230,7 +230,7 @@ $580 Negotiable
 }
 
 iMac Early 2008 20" 4GB RAM 160GB HDD Lion
-$170 Negotiable
+$170 Negotiable $199
 {
 	iMac Early 2008
 
@@ -463,7 +463,7 @@ $450 Negotiable $399
 }
 
 Macbook 2008 13" Core 2 Duo 2.4GHZ 4GB RAM 320GB HDD
-$160
+$160 $250
 {
 	Macbook 2008
 
