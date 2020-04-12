@@ -259,7 +259,7 @@ $800 Negotiable
 }Laptop
 
 Macbook Pro 17" mid 2010 core-i5 @2.53ghz 8gb ram 250gb ssd
-$649 Negotiable
+$649 Negotiable $549
 {
 	Macbook Pro 17 mid 2010
 
@@ -415,7 +415,7 @@ $199 Negotiable
 }Laptop
 
 M800 Core I5-6th gen @2.70ghz 16gb ram 180gb ssd and 500gb win 10
-$580 Negotiable $499
+$580 Negotiable $499 $399
 {
 	Lenovo Core I5-6th gen @2.70ghz 16gb ram 180gb ssd and 500gb win 10
 
@@ -630,7 +630,7 @@ $499 Negotiable $390
 }Desktop
 
 Lenovo Ideapad core i5-6th gen @2.30ghz 4gb ram 240gb ssd hdd win 10
-$499 Negotiable $450 $480
+$499 Negotiable $450 $480 $440
 {
 	Lenovo Ideapad core i5-6th gen @2.30ghz 4gb ram 240gb ssd hdd win 10
 
@@ -732,54 +732,6 @@ $350 Negotiable $330 $299 $250
 
 	11am to 5pm 
 }Desktop
-
-Lenovo core i5-7th gen @2.10Ghz 8gb ram 240gb ssd win 10
-$600 Negotiable
-{
-	Lenovo Core I5-7th gen @2..10ghz 8gb ram 240gb ssd hdd win 10
-
-
-	Lenovo Ideapad 320
-
-
-	Intel core I5-7th gen @2.10ghz
-
-
-	8gb ram
-
-
-	win 10
-
-
-	240gb ssd Hard Drive
-
-
-	OFFICE 2007 INSTALLED
-
-
-	In Excellent Physical and Working Condition!
-
-
-	Please contact /sms
-
-
-	0405
-
-
-	621
-
-
-	003
-
-
-	163 waterlooroad greenacre 2190
-
-
-	Mon to Sat
-
-
-	11am to 5pm	
-}Laptop
 
 Lenovo Core i5-3rd gen @3.20ghz 4gb ram 180ssd and 500gb hdd win 10
 $299 Negotiable $269
@@ -1176,8 +1128,8 @@ $499 Negotiable
 	11am to 5pm
 }Laptop
 
-HP Folio 9470M core I5 3rd gen @1.80ghz 8gb ram 240gb ssd 1Tb hdd W10
-$350 Negotiable $399
+HP Folio 9470M core I5 3rdgen 8gb ram 240gb ssd 1Tb hdd Wni10 prof of
+$350 Negotiable $399 $450
 {
 	HP Folio 9470M
 
@@ -1271,25 +1223,22 @@ $300 Negotiable $280
 	11am to 5pm 
 }Desktop
 
-HP Elitebk 8570w Core I7 3rd gen @2.70ghz 24gb ram 240gbssd and 1Tb hd
-$699 Negotiable
+HP Elite 850 Core I5- 4th gen @1.90ghz 8gb ram 500gb hdd win 10
+$399 Negotiable
 {
-	HP Elitebk 8570w Core I7 3rd gen @2.70ghz 24gb ram 240gbssd and 1Tb hdd
+	HP Core I5- 4th gen @1.90ghz 8gb ram 500gb hdd win 10 office
 
 
-	Work Station
+	HP Core I5- 4th gen @1.90ghz 8gb ram
 
 
-	very very Fast and reliable for work , can be used on duel Screen ,extra display and vgi port
-
-
-	24gb ram
+	8gb ram
 
 
 	win 10
 
 
-	240gb ssd and 1TB Hard Drive
+	500gb Hard Drive
 
 
 	OFFICE 2007 INSTALLED
@@ -1319,13 +1268,13 @@ $699 Negotiable
 	11am to 5pm
 }Laptop
 
-HP Elite 850 Core I5- 4th gen @1.90ghz 8gb ram 500gb hdd win 10
-$399 Negotiable
+HP Core I7-3rd gen @3.40ghz 8gb ram 128ssd and 1Tb hdd win 10
+$339 Negotiable
 {
-	HP Core I5- 4th gen @1.90ghz 8gb ram 500gb hdd win 10 office
+	HP Core I7-3rd gen @3.40ghz 8gb ram 128ssd and 1Tb hdd win 10
 
 
-	HP Core I5- 4th gen @1.90ghz 8gb ram
+	HP Core I7-3rd gen @3.40ghz 8gb ram
 
 
 	8gb ram
@@ -1334,7 +1283,7 @@ $399 Negotiable
 	win 10
 
 
-	500gb Hard Drive
+	128ssd & 1Tb hdd Hard Drive
 
 
 	OFFICE 2007 INSTALLED
@@ -1459,51 +1408,6 @@ $199 Negotiable $189
 	11am to 5pm 
 }Desktop
 **
-Hp Core I5 @2.30ghz 6th gen 8gb ram 500gb hdd win 10 office
-$349 Negotiable $329
-{
-	Hp Core I5 @2.30ghz 6th gen 8gb ram 500gb hdd win 10 office
-
-
-	Hp Core I5 @2.30ghz 6th gen 8gb ram
-
-
-	8gb ram
-
-
-	win 10
-
-
-	500gb ssd Hard Drive
-
-
-	OFFICE 2007 INSTALLED
-
-
-	In Excellent Physical and Working Condition!
-
-
-	Please contact /sms
-
-
-	0405
-
-
-	621
-
-
-	003
-
-
-	163 waterlooroad greenacre 2190
-
-
-	Mon to Sat
-
-
-	11am to 5pm
-}Laptop
-
 Hp Compaq pro 6300 Core I5-3rd gen @3.20ghz 8gb ram 128 gb ssd 1Tb hdd
 $299 Negotiable
 {
@@ -1548,8 +1452,8 @@ $299 Negotiable
 	163 waterlooroad greenacre 2190
 }Desktop
 
-HP all in1 Core I7- 6th gen touch @3.4ghz 8gb ram 240gb ssd hdd win10
-$800 Negotiable
+HP all in1 Core I7- 6th gen @3.4ghz 8gb ram 240gb ssd hdd win10
+$800 Negotiable $500
 {
 	HP all in1 Core I7- 6th gen touch @3.4ghz 8gb ram 240gb ssd hdd win10
 
@@ -1731,7 +1635,7 @@ $446 Negotiable
 }Laptop
 
 Hp 470 G1 Core I7-4th gen @2.20ghz 8gb ram 700gb hdd win 10 ofc
-$499 Negotiable
+$499 Negotiable $450
 {
 	Hp 470 G1 Core I7-4th gen @2.20ghz 8gb ram 700gb hdd win 10 ofc
 
@@ -1774,73 +1678,6 @@ $499 Negotiable
 
 	11am to 5pm
 }Laptop
-
-Gaming Desktop Intel Quade code i5 -4440 4th 16GB ddr3 , 120 GB SSD
-$399 Negotiable
-{
-	Gaming Desktop Intel Quade code i5 -4440
-
-	4th Gen @3.1
-
-	16 GB ddr3
-
-	, 120 GB SSD
-
-	and 1TB new Sata HD
-
-	win10 Pro
-
-	Office installed
-
-	Good working gaming machine
-
-	for more information please text
-
-	0405
-
-	621
-
-	003
-}Desktop
-
-Gaming Desktop Intel Quad core i7-3770 16GB DDR3 120GB SSD 1TB HDD
-$499 Negotiable
-{
-	Gaming Desktop
-
-
-	IntelQuad core i7-3770 3.40Ghz
-
-
-	16GB DDR3
-
-
-	120 GB SSD
-
-
-	1TB 2nd HDD
-
-
-	Win10 Pro
-
-
-	Office installed
-
-
-	Asus GTX660 2Gb DDR5 Dedicated Graphic Card
-
-
-	please sms for more information
-
-
-	0405
-
-
-	621
-
-
-	003
-}Desktop
 
 floor cleaner handy and very handy and good Exercise . for yards
 $150 Negotiable
@@ -1943,6 +1780,50 @@ $499 Negotiable $549 $548
 
 
 	11am to 5pm 
+}Laptop
+
+dell latitude laptop 6ht Gen i5-6200U 2.4 ghz 8gb ram 24gb ssd win10
+$580 Negotiable
+{
+	Dell latitude laptop 6ht Gen Ultrabook with high hours battery
+
+	Quade core i5-6200U U series 2.4 ghz
+
+	8gb ram
+
+	240 gb SSD Hard drive
+
+	win10 PROF
+
+	office
+
+	antivirus installed
+
+	fresh installation
+
+	ready to use
+
+	super fast machine for home work
+
+	screen size 12 inch and
+
+	high definition Display
+
+	genuine Power Adapter
+
+	for more information
+
+	Excellent Battery
+
+	please text
+
+	0405
+
+	621
+
+	003
+
+	happy day buy
 }Laptop
 
 Dell latitude E6540 core I7-4thgen 16gb ram 180gb ssd hdd win 10
@@ -2169,6 +2050,7 @@ $499 Negotiable
 
 	11am to 5pm
 }Laptop
+
 
 Dell E5450 Core I5- 5th gen @2.30ghz 8gb ram 500gb hdd win 10
 $399 Negotiable
