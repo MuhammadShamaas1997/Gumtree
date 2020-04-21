@@ -800,7 +800,7 @@ $450 Negotiable
 }Desktop
 
 Lenovo Thinkpad X131E Intel Celeron 887 @1.50Ghz 4gb ram 150gb hdd
-$280 Negotiable
+$280 Negotiable $150
 {
 	Lenovo Thinkpad X131E
 
