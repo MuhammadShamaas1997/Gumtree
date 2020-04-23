@@ -108,7 +108,7 @@ $350 Negotiable $299
 }Laptop
 
 Samsung NP535U3C A6-4455@ 2.10ghz 6gb ram 500gb hdd win 10 office
-$187 $185 $172 $200
+$187 $185 $172 $200 $270
 {
 	Samsung A6-4455@ 2.10ghz 6gb ram 500gb hdd win 10 office
 
