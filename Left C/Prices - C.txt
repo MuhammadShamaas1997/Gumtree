@@ -522,7 +522,7 @@ $350 Negotiable $299
 
 	Clovelly, NSW 2031
 }Desktop
-
+*
 iMac 21.5 2013 1TB 8GB RAM i5 High Sierra
 $580 Negotiable
 {
@@ -1058,7 +1058,7 @@ $750 Negotiable
 
 	Clovelly, NSW 2031
 }
-
+*
 Macbook Pro 2015 15" Corei7 16GB RAM 500GB SSD High Sierra
 $1,150 Negotiable
 {
@@ -1243,7 +1243,7 @@ Sale & Service, Repair/troubleshoot Macbook iMac PC Laptop all Brands
 	No Fix, No charge
 }Computer and Phone Repairs
 ABN:88137994266
-
+*
 Toshiba L50-B Intel celeron @ 2.16Ghz 4gb ram 500gb hdd
 $330 Negotiable
 {
@@ -1353,7 +1353,7 @@ Brand: Toshiba
 Hard Drive Capacity: 500-999 GB
 Operating System: Windows 7
 RAM Computer Memory: 4 GB
-
+*
 Toshiba Satellite Core I5-5th gen @2.20 12gb ram 500gb hdd
 $650 Negotiable
 {
