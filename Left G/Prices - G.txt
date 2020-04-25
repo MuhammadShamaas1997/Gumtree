@@ -387,7 +387,7 @@ $580
 
 	621003
 }Laptop
-
+*
 Macbook 13inch 2010 @2.4ghz Core 2 duo 4gb ram 250gb hdd office
 $210 Negotiable $199 $189 $225 $199
 {
@@ -432,7 +432,7 @@ $210 Negotiable $199 $189 $225 $199
 
 	11am to 5pm 
 }Laptop
-
+*
 Macbook 13 inch Core 2 Duo 4gb ram 120gb ssd hdd Lion Installed
 $199 Negotiable
 {
@@ -692,7 +692,7 @@ $499 Negotiable $390
 
 	163 waterlooroad greenacre 2190
 }Desktop
-
+*
 Lenovo Ideapad core i5-6th gen @2.30ghz 4gb ram 240gb ssd hdd win 10
 $499 Negotiable $450 $480 $440
 {
@@ -737,7 +737,7 @@ $499 Negotiable $450 $480 $440
 
 	11am to 5pm
 }Laptop
-
+*
 Lenovo core i5- 4th Gen 8gb ram 128ssd hd win 10 prof office mini unit
 $350 Negotiable $330 $299 $250
 {
@@ -920,7 +920,7 @@ $750 Negotiable
 
 	Regards
 }Laptop
-
+*
 iMac Core i5 Quad Core 2.7GHz 4th Gen 8GB Ram 1 TB HD late 2013
 $550 Negotiable $530 $499
 {
@@ -975,7 +975,7 @@ $550 Negotiable $530 $499
 
 	11am to 5pm 
 }Desktop
-**
+
 iMac Core2 Duo 2.66 GHZ 4GB Ram GeForce 9400 250 MB 640 HDD 24 inch
 $349.99 Negotiable $280 $249 $299
 {
@@ -1018,7 +1018,7 @@ $349.99 Negotiable $280 $249 $299
 
 	11am to 5pm 
 }Desktop
-
+*
 IMac 27inch Mid 2010 Core I3 8gb ram 500gb hdd Lion Installed
 $449 Negotiable
 {
@@ -1063,7 +1063,7 @@ $449 Negotiable
 
 	11am to 5pm
 }Desktop
-
+*
 IMac 27'' Core i5 2.8 12GB DDR3 ATiRadeon 5750 1GB 1T SATA
 $850 $799 $699
 {
@@ -1095,7 +1095,7 @@ $850 $799 $699
 
 	Hardware UUID: 42392C41-A49A-5D70-A02A-D9C1D6926136
 }Desktop
-
+*
 iMac 27 2010 Core I5 @2.8ghz 8gb ram 1 Tb Hdd office 2011 good
 $599 Negotiable $550
 {
@@ -1139,7 +1139,7 @@ $599 Negotiable $550
 
 	11am to 5pm 
 }Desktop
-
+*
 I5-4th gen @3.20ghz 8gb ram 112gb SSD and 500gb HDD Win 10
 $350 Negotiable
 {
@@ -1363,7 +1363,7 @@ $300 Negotiable $280
 
 	11am to 5pm 
 }Desktop
-
+*
 HP Elite 850 Core I5- 4th gen @1.90ghz 8gb ram 500gb hdd win 10
 $399 Negotiable
 {
@@ -1408,7 +1408,7 @@ $399 Negotiable
 
 	11am to 5pm
 }Laptop
-
+*
 HP Core I7-3rd gen @3.40ghz 8gb ram 128ssd and 1Tb hdd win 10
 $339 Negotiable
 {
@@ -1601,7 +1601,7 @@ $199 Negotiable $189
 
 	11am to 5pm 
 }Desktop
-**
+*
 Hp Compaq pro 6300 Core I5-3rd gen @3.20ghz 8gb ram 128 gb ssd 1Tb hdd
 $299 Negotiable
 {
@@ -1737,7 +1737,7 @@ $499 Negotiable
 
 	11am to 5pm
 }Laptop
-
+*
 Hp 650 G1 Core I5-4th gen @2.50ghz 4gb ram 500gb hdd win 10
 $446 Negotiable
 {
@@ -1842,7 +1842,7 @@ $150 Negotiable
 
 	621 003
 }
-
+*
 E-machine AMD II 170u @2ghz 4gb ram 320gb hdd win 10
 $140 Negotiable $120
 {
@@ -1886,7 +1886,7 @@ $140 Negotiable $120
 
 	11am to 5pm 
 }Desktop
-**
+*
 Dell Latitude5480 i5- 7th gen @ 2.50ghz 8gb ram 120gb ssd hdd win 10
 $499 Negotiable $549 $548
 {
@@ -1974,7 +1974,7 @@ $580 Negotiable
 
 	happy day buy
 }Laptop
-
+*
 Dell latitude E6540 core I7-4thgen 16gb ram 180gb ssd hdd win 10
 $499 Negotiable $449
 {
@@ -2050,7 +2050,7 @@ $179 Negotiable
 
 	Regards
 }Laptop
-
+*
 Dell latitude 3540 Core I5- 4th gen 4gb ram 240gb ssd hdd win 10 ofc
 $399 Negotiable
 {
@@ -2095,7 +2095,7 @@ $399 Negotiable
 
 	11am to 5pm
 }Laptop
-
+*
 Dell latitude 3340 Touch core i5-4th gen 8gb ram 128gb ssd hdd w10
 $349 Negotiable
 {
@@ -2140,7 +2140,7 @@ $349 Negotiable
 
 	11am to 5pm
 }Laptop
-
+*
 Dell E7240 Touch Core I7 -4th gen 8gb ram 240gb ssd hdd win 10
 $350 Negotiable
 {
@@ -2185,7 +2185,7 @@ $350 Negotiable
 
 	11am to 5pm
 }Laptop
-
+*
 DEll E6540 Core i7-4th gen @3ghz 16gb ram 500gb hdd win 10 ofc
 $499 Negotiable
 {
@@ -2231,7 +2231,7 @@ $499 Negotiable
 	11am to 5pm
 }Laptop
 
-
+*
 Dell E5450 Core I5- 5th gen @2.30ghz 8gb ram 500gb hdd win 10
 $399 Negotiable
 {
@@ -2276,7 +2276,7 @@ $399 Negotiable
 
 	11am to 5pm
 }Laptop
-
+*
 Dell core i5-6th gen @2.30ghz 8gb ram 240gb ssd win 10
 $550 Negotiable
 {
@@ -2369,7 +2369,7 @@ $499 Negotiable $449 $399
 
 	11am to 5pm
 }Desktop
-
+*
 Dell Core I5 @ 3.30ghz 4gb ram 128gb ssd hdd win 10 office
 $190 Negotiable
 {
@@ -2414,7 +2414,7 @@ $190 Negotiable
 
 	11am to 5pm
 }Desktop
-
+*
 Dell Celeron J1800 @ 2.41ghz 4gb ram 500gb hdd win 10 office
 $120 Negotiable
 {
@@ -2634,7 +2634,7 @@ apple and windows laptop computer repair and services bankstown area
 
 	we come to you
 }
-
+*
 Apple 13inch 2010 @2.ghz Core 2 duo 2gb ram 250gb hdd
 $199 Negotiable $179
 {
