@@ -2459,7 +2459,7 @@ $120 Negotiable
 
 	11am to 5pm
 }Desktop
-
+*
 Asus GL552V Core I7-6th gen @2.60ghz 8gb ram 240gb ssd hdd w10
 $999 Negotiable $699
 {

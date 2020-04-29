@@ -55,7 +55,7 @@ Brand: ASUS
 Hard Drive Capacity: 500-999 GB
 Operating System: Windows 10
 RAM Computer Memory: 8 GB
-
+*
 Custom Gaming Desktop i5 3rd gen 16GB RAM 250GB SSD 500GB HDD Nvidia 5
 $480 Negotiable
 {
@@ -205,7 +205,7 @@ $99 Negotiable
 
 	Clovelly, NSW 2031
 }Desktop
-
+*
 Dell Latitude Core I7-3rd Gen @3.0 Ghz 8Gb Ram 500Gb HDD
 $450 Negotiable $299
 {
@@ -260,7 +260,7 @@ Brand: Dell
 Hard Drive Capacity: 500-999 GB
 Operating System: Windows 10
 RAM Computer Memory: 8 GB
-
+*
 DELL LATITUDE CORE I7-4TH GEN @3.0GHZ 16GB RAM 240GB SSD
 $400 Negotiable
 {
